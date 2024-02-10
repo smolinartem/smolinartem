@@ -10,7 +10,7 @@
   
 </div>
 
-<h3 align="center">Tools</h3>
+<h3 align="center">🛠 Tools 🛠</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,figma,tailwind,git,bash,nodejs,typescript,express,mongodb,postman" />
@@ -24,4 +24,3 @@
 
 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
