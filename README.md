@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrain+Mono&size=35&color=25D366&center=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Artem+Smolin!;" />
+</h1>
 
-<!--
-**smolinartem/smolinartem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  🔭 I’m currently working on ***Pizza Shop Web App***
 
-Here are some ideas to get you started:
+  🌱 I’m currently learning ***Typescript and Redux Toolkit***
+  
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">⚒️ Tools ⚒️</h3>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,figma,tailwind,git,bash,nodejs,typescript,express,mongodb,postman" />
+</div>
+
+<br/>
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
