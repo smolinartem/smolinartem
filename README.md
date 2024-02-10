@@ -10,12 +10,18 @@
   
 </div>
 
-<h3 align="center">⚒️ Tools ⚒️</h3>
+<h3 align="center">Tools</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,github,figma,tailwind,git,bash,nodejs,typescript,express,mongodb,postman" />
 </div>
 
 <br/>
+
+<div align="center">
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=smolinartem&langs_count=6&text_color=fff&hide_title=true&layout=pie&theme=transparent&border_radius=10" alt="top langs" />
+</div>
+
+
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
